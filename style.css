@@ -1,0 +1,35 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+nav { 
+  background-color:black;
+  height:50px;
+  display:flex;
+  justify-content:space-between;
+}
+
+nav a {
+  color:Gainsboro;
+  text-decoration:none;
+  margin:auto;
+}
+
+nav a:link {
+  color:Gainsboro;
+}
+
+nav a:visited {
+  color:SlateGrey;
+}
+
+nav a:hover {
+  color:LightSlateGrey;
+}
+
+.galeria{
+  width:200px;
+}
+
+
